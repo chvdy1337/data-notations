@@ -21,6 +21,9 @@ stalj@uek.krakow.pl
 
     <https://youtu.be/r8jQ9hVA2qs?feature=shared>
     
+1. Main Git Concepts:
+
+    ![Git Concepts](git.png)
 
 1. To track changes to files, first you must provide your name and email. This information will be used to mark who made changes to the files.
 
@@ -285,7 +288,7 @@ Hint: You can also do it with the help of "Open Folder..." button at the welcome
 1. Display the contents of the remote repository on GitHub. Make sure it contains 3 images.
 
 
-## 11. Track and Register New Project Changes form Command Line
+## 11. Track and Register New Project Changes from Command Line
 
 1. In the MyProjects folder, create a Cities folder.
 
